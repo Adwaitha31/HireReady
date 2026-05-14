@@ -173,11 +173,4 @@ src/
 6. **7-day micro-action plan** — Specific tasks with time estimates, not generic advice
 7. **Confetti on reveal** — Delightful UX moment that users screenshot and share
 
----
-
-## 👥 Team
-
-Built for Hackathon 2026 with ❤️
-
----
 
