@@ -1,4 +1,5 @@
 # 🚀 HireReady — AI-Powered Interview Readiness Scorer
+live now : https://hire-ready-a3azf2jmu-adwaitha31s-projects.vercel.app/
 
 > **Know your Interview Readiness Score in under 2 minutes.**
 > AI-driven assessment across 4 dimensions · Personalized archetype · 7-day action plan.
@@ -180,6 +181,3 @@ Built for Hackathon 2026 with ❤️
 
 ---
 
-## 📄 License
-
-MIT
